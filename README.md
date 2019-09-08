@@ -1,23 +1,12 @@
-# Assignment 1: Welcome to App Lab
-Due Wednesday, September 11 
-
-# Instructions
-1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
-2. Open the `welcome-to-app-lab-yourgithubusername` folder in vscode.
-3. Open the the file `README.md`.
-4. Replace the **About Me** section with your own. I've included my own as a template.
-5. Delete the **Assignment** and **Instructions** sections.
-7. `git push` your changed file - this is your assignment submission (don't forget a `commit` message)!
- 
-Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
-
 # About Me
-Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
 
-I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
+Hi! My name is Janice and I'm from Queens New York. I am a senior majoring in Business and Marketing. I spent my junior year "studying away" in New York City, where I was able to pick up a minor in Psychology. I was also able to take advantage of the variety of course selections, such as American Sign Language and Creative Arts Therapy. 
 
-My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem.
+## Hobbies and Interests
+In my free time, I like to listen to music, dance, and paint. I've always loved the different art forms. I also enjoy fitness and love staying active. While I was in New York the past year, I decided to try kickboxing. It has become a new hobby of mine and I intend to continue that here in Shanghai. 
+I am extremely interested in environmental sustainability and social impact. As a Business major, I believe that environmental efforts made by corporations can make an immense impact on our planet. When I interned at IBM this summer, I was able to see how technology, such as Blockchain and AI, play a big part in that movement. 
 
-
-
-
+## Fun Facts
+1. Most of my peers know me as a *crazy dog lady* as most of my social media posts are dogs.
+2. I might be one of the very few people who actually enjoys durian and thinks it smells pretty appetizing.
+3. I can't roll my R's. I've tried for the past decade and have not yet succeeded. 
